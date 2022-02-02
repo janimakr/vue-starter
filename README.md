@@ -1,4 +1,13 @@
-# vue-starter
+# Starter Project
+
+This is a starter template that makes use of the following packages
+
+* Vue 2
+* Typescript
+* SCSS
+* Eslint
+* Vue Testing Library
+* Jest
 
 ## Project setup
 ```
@@ -17,7 +26,7 @@ npm run build
 
 ### Run your unit tests
 ```
-npm run test:unit
+npm run test
 ```
 
 ### Lints and fixes files
