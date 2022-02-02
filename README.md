@@ -9,6 +9,8 @@ This is a starter template that makes use of the following packages
 * Vue Testing Library
 * Jest
 
+Please refer [Task](./Task.md) file the instructions.
+
 ## Project setup
 ```
 npm install
