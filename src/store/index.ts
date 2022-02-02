@@ -1,9 +1,9 @@
-import Vue from "vue";
-import Vuex from "vuex";
-import VuexPersist from "vuex-persist";
+import Vue from 'vue';
+import Vuex from 'vuex';
+import VuexPersist from 'vuex-persist';
 
 const vuexPersist = new VuexPersist({
-  key: "workshop",
+  key: 'workshop',
   storage: window.localStorage,
 });
 
