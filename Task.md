@@ -2,6 +2,8 @@
 
 You have to build an application to manage team members using the following screenshots. You can build the UI using any UI frameworks like, Buefy, Vuetify, BootstrapVue, etc and consider these screenshots as wireframes for the app.
 
+You can make use of vuex store managing the data instead of making API calls to backend service.
+
 ## Requirements
 As a user, I Should be able to
 * View list of all my team members
