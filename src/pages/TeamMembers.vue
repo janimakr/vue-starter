@@ -1,5 +1,7 @@
 <template>
   <div id="team-members" class="center">
+    <v-column class='center'>
+
     <v-card  min-width="500px" class="mx-13 my-13" >
       <v-toolbar color="light-blue" light>
         <v-toolbar-title>Team Members ( {{ folders.length }} )</v-toolbar-title>
@@ -50,6 +52,7 @@
         </v-list-item>
       </v-list>
     </v-card>
+    </v-column>
   </div>
 </template>
 
